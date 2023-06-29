@@ -1,5 +1,3 @@
-# shane - VueJS Personal Portfolio Template
-
 ## Project setup
 
 ```
